@@ -35,149 +35,86 @@ The project simulates a real-world school ERP used by educational institutions t
 
 ---
 
-### 📸 Project Screenshots
+# 📸 Project Screenshots
+
+Explore the different modules of **EduPlus** by clicking the links below to view the screenshots.
 
 ---
 
 ## 🔐 Authentication
 
-<p align="center">
-  <a href="screenshots/login-signup.png">
-    <img src="screenshots/login-signup.png" width="85%" alt="Login & Signup">
-  </a>
-</p>
+- 📷 [Login & Signup](screenshots/login-signup.png)
 
 ---
 
 ## 📊 Dashboard
 
-<p align="center">
-  <a href="screenshots/dashboard.png">
-    <img src="screenshots/dashboard.png" width="90%" alt="Dashboard">
-  </a>
-</p>
+- 📷 [Dashboard](screenshots/dashboard.png)
 
 ---
 
 ## 👨‍🎓 Student Management
 
-<p align="center">
-  <a href="screenshots/students.png">
-    <img src="screenshots/students.png" width="48%" alt="Students">
-  </a>
-
-  <a href="screenshots/admin.png">
-    <img src="screenshots/admin.png" width="48%" alt="Admin Panel">
-  </a>
-</p>
+- 📷 [Students Management](screenshots/students.png)
+- 📷 [Admin Panel](screenshots/admin.png)
 
 ---
 
 ## 📅 Attendance Management
 
-<p align="center">
-  <a href="screenshots/class-entry.png">
-    <img src="screenshots/class-entry.png" width="48%" alt="Attendance Entry">
-  </a>
-
-  <a href="screenshots/attendance-log.png">
-    <img src="screenshots/attendance-log.png" width="48%" alt="Attendance Log">
-  </a>
-</p>
+- 📷 [Class Attendance Entry](screenshots/class-entry.png)
+- 📷 [Attendance Log](screenshots/attendance-log.png)
 
 ---
 
 ## 👨‍🏫 Staff Management
 
-<p align="center">
-  <a href="screenshots/staff-management.png">
-    <img src="screenshots/staff-management.png" width="48%" alt="Staff Management">
-  </a>
-
-  <a href="screenshots/staff-attendance.png">
-    <img src="screenshots/staff-attendance.png" width="48%" alt="Staff Attendance">
-  </a>
-</p>
+- 📷 [Staff Management](screenshots/staff-management.png)
+- 📷 [Staff Attendance](screenshots/staff-attendance.png)
 
 ---
 
 ## 💰 Fee Management
 
-<p align="center">
-  <a href="screenshots/fees.png">
-    <img src="screenshots/fees.png" width="90%" alt="Fees">
-  </a>
-</p>
+- 📷 [Fee Management](screenshots/fees.png)
 
 ---
 
 ## 📖 Timetable Management
 
-<p align="center">
-  <a href="screenshots/timetable.png">
-    <img src="screenshots/timetable.png" width="90%" alt="Timetable">
-  </a>
-</p>
+- 📷 [Timetable](screenshots/timetable.png)
 
 ---
 
 ## 📝 Academic Management
 
-<p align="center">
-  <a href="screenshots/session-marks.png">
-    <img src="screenshots/session-marks.png" width="48%" alt="Session Marks">
-  </a>
-
-  <a href="screenshots/marks.png">
-    <img src="screenshots/marks.png" width="48%" alt="Marks Entry">
-  </a>
-</p>
-
-<p align="center">
-  <a href="screenshots/results.png">
-    <img src="screenshots/results.png" width="90%" alt="Academic Results">
-  </a>
-</p>
+- 📷 [Sessional Marks](screenshots/session-marks.png)
+- 📷 [Marks Entry](screenshots/marks.png)
+- 📷 [Academic Results](screenshots/results.png)
 
 ---
 
 ## 📚 Study Materials
 
-<p align="center">
-  <a href="screenshots/assignment.png">
-    <img src="screenshots/assignment.png" width="90%" alt="Study Materials">
-  </a>
-</p>
+- 📷 [Assignments & Study Materials](screenshots/assignment.png)
 
 ---
 
 ## 📝 Examination Module
 
-<p align="center">
-  <a href="screenshots/exam-schedule.png">
-    <img src="screenshots/exam-schedule.png" width="90%" alt="Exam Schedule">
-  </a>
-</p>
+- 📷 [Exam Schedule](screenshots/exam-schedule.png)
 
 ---
 
 ## 📢 Notice Board
 
-<p align="center">
-  <a href="screenshots/notice-board.png">
-    <img src="screenshots/notice-board.png" width="90%" alt="Notice Board">
-  </a>
-</p>
+- 📷 [Notice Board](screenshots/notice-board.png)
 
 ---
 
 ## 💹 Finance Control
 
-<p align="center">
-  <a href="screenshots/finance.png">
-    <img src="screenshots/finance.png" width="90%" alt="Finance Control">
-  </a>
-</p>
+- 📷 [Finance Dashboard](screenshots/finance.png)
 
 ---
 
