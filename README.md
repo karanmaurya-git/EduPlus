@@ -19,6 +19,10 @@ The project simulates a real-world school ERP used by educational institutions t
 
 ## 🌐 View Live
 
+[![View Live](https://img.shields.io/badge/🎓_EduPlus-View_Live-success?style=for-the-badge)](https://eduplus-rouge.vercel.app)
+
+[![Backend API](https://img.shields.io/badge/🖥️_Backend-Server-blue?style=for-the-badge)](https://eduplus-backend.onrender.com)
+
 ---
 
 ### 📸 Project Preview
